@@ -1,7 +1,7 @@
 {
   "name": "fetch-state-io",
   "version": "0.0.0",
-  "description": "Updates global state with a routing callback, and narrows global state type further down the component tree.",
+  "description": "Effectfully updates state with fetch",
   "main": "dist/index.js",
   "repository": "https://github.com/anthonyjoeseph/fetch-state-io",
   "author": "anthonygabriele <anthonyjoeseph@gmail.com>",
